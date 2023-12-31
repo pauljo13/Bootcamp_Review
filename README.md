@@ -1,4 +1,8 @@
 # Bootcamp_Review
+  
+- 기관 : 코드스테이츠
+- 기간 : 2023-02-14 ~ 2023-09-13
+  
 ## Section1 : Introduction to Data Science
 - EDA
 - Data Wrangling
